@@ -7,6 +7,9 @@
 
 public class ThirdSort {
 
+    /**
+     * @param args the command line arguments
+     */
     public String ThirdGreatest(String[]strArr){
         String sortedString = "";
         boolean finalSort =  true;
@@ -28,5 +31,3 @@ public class ThirdSort {
     }
 
 }
-
-
